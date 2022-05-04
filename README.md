@@ -6,7 +6,6 @@ A Data analysis and a Data Visualisation tool made for stores and E-commerce bas
 ![Screenshot (154)](https://user-images.githubusercontent.com/70227279/166697010-6edd33bf-1a55-4a35-b7c7-c53cd910ea81.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/70227279/166697014-85e9a07d-4909-4e82-9f43-5386e705ce4b.png)
 ![Screenshot (139)](https://user-images.githubusercontent.com/70227279/166697015-c789a5f6-f263-48a6-8cb1-8076361cf89a.png)
-![Screenshot (140)](https://user-images.githubusercontent.com/70227279/166697019-8d5c4aee-43b2-4e73-a6da-431dd05c2fcb.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/70227279/166697024-1b19ae2b-4b67-47db-b27b-311fad45bac6.png)
 ![Screenshot (142)](https://user-images.githubusercontent.com/70227279/166697029-6e0fbdb9-d1cb-45da-b1bc-919f431df908.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/70227279/166697033-44815fb4-c090-4b15-91fd-5726824d5518.png)
